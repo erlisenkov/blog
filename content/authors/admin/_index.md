@@ -44,23 +44,30 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: СТЭК
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+      - name: Паскаль
         description: ''
         percent: 100
-        icon: chart-line
+        icon: angle-up
         icon_pack: fas
-      - name: SQL
+      - name: Язык жестов
         description: ''
-        percent: 40
-        icon: database
+        percent: 100
+        icon: compress
         icon_pack: fas
+      - name: Scratch
+        description: ''
+        percent: 100
+        icon: expand
+        icon_pack: fas
+      - name: Кунфу
+        description: ''
+        percent: 100
+        icon: angle-up
+        icon_pack: fas
+        
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

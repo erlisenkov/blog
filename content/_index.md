@@ -62,33 +62,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Директор
+          company: Авиалинии
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Сан-Диего
+          date_start: '2016-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Моя должность:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Летать
+              * Наблюдать
+              * Отражать уверенность
+        - title: Заместитель Илона Маска
+          company: Моё логово
+          company_url: 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/%3Flang%3Dru&ved=2ahUKEwjG9un7moiFAxXhFhAIHTgVBrEQFnoECAYQAQ&usg=AOvVaw3ngJasbzY3pUFYSRCc_Ezw'
           company_logo: org-x
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Я сделал всё, у меня свой бизнес, но с Илоном мы кенты
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Мои награды!'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -105,25 +105,25 @@ sections:
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Войти в IT за 30 дней!
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: Присваивается Егору Лисенкову за создания блокчейна
           icon: edx
           organization: edX
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: OKX
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
           icon: datacamp
-          organization: DataCamp
+          organization: Apple
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Создатель mac-os'
           url: ''
     design:
       columns: '2'

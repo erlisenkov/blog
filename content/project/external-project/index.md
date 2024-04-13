@@ -1,5 +1,5 @@
 ---
-title: External Project
+title: Мой второй проект!
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
   - Demo
@@ -12,3 +12,5 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
+
+Я создатель мем коина PEPE
